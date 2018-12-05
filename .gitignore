@@ -1,8 +1,13 @@
 .idea/
 
-java/com
+java/home
 
 python/__init__.py
 python/HelloWorld
 
 go/HelloWorld
+
+cpp/.vscode/
+cpp/gen-cpp
+cpp/Client
+cpp/Server
